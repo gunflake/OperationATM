@@ -1,6 +1,6 @@
 # OperationATM
 
-Request-Reply 방식을 적용한 은행 ATM 프로그램 입니다.
+Request-Reply 방식을 적용한 은행 ATM 프로그램
 
 TIBCO Rendezvous API를 활용하여 데이터 전송을 처리
 
